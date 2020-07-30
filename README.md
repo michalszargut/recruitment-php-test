@@ -1,3 +1,5 @@
+If you are here for copy this test, beware this test was never verified ;) 
+
 # Snowdog PHP Recruitment test
 
 Test scenario is cache warming application.
